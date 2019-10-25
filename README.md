@@ -20,6 +20,6 @@ Please refer to source code of each package to get more information.
 
 **Usage**
 
-Use "--help" or "-h" flags to get usage information for each script. 
+Use "--help" or "-h" flags to get usage information for each script. All scripts are written in Python 2.7.
 
 Contact Bala Ani Akpinar (@aniakpinar) for code-related issues and Cory Dunn (@corydunnlab) for more general inquiries.
