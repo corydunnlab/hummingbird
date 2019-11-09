@@ -10,7 +10,7 @@
 # The output file specifies amino acid position [within the full length protein] as AAi,
 # and alignment position as Posi, for the i'th position.
 
-# Script usage: $python add-convention-to-binarytable.py -b [binary_table] -a [alignment_file] -sp <species>
+# Script usage: $python add-convention-to-binarytable.py -b [binary_table] -a [alignment_file] -conv <species>
 
 # Dependencies: Bio.SeqIO
 
@@ -19,7 +19,7 @@ from Bio import SeqIO
 
 parser = argparse.ArgumentParser(prog='Add convention to binary table',
                                  usage='$python add-convention-to-binarytable-v1.1.py -b [binary_table]'
-                                       '-a [alignment_file] -sp <species>')
+                                       '-a [alignment_file] -conv <species>')
 
 parser.add_argument('--binary', '-b',
                     help='Please specify a binary table')
