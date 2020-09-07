@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # coding=utf-8
 #
-# C.D. Dunn†, B.A. Akpınar, and V. Sharma†. An unusual amino acid substitution within the hummingbird
-# cytochrome c oxidase alters a key proton-conducting channel. bioRxiv. doi: 10.1101/610915.
+# C.D. Dunn†, B.A. Akpınar, and V. Sharma†. 2019. An unusual amino acid substitution within the hummingbird
+# cytochrome c oxidase alters a key proton-conducting channel. G3: Genes, Genomes, Genetics, 10:7, 2477-2485
+# doi: 10.1534/g3.120.401312
 
 # This script calculates substitutions for all edges of a given tree for each amino acid position in a given alignment.
 
