@@ -3,7 +3,7 @@
 ----
 #### Commercial use without the permission of the software authors (Cory Dunn and Bala Ani Akpinar) is forbidden. Academic use is permitted, with citation of the following work:
 
-#### _C.D. Dunn, B.A. Akpınar, and V. Sharma. An unusual amino acid substitution within the hummingbird cytochrome c oxidase alters a key proton-conducting channel. bioRxiv. doi: 10.1101/610915._
+#### _C.D. Dunn, B.A. Akpınar, and V. Sharma. 2019. An unusual amino acid substitution within the hummingbird cytochrome c oxidase alters a key proton-conducting channel. G3: Genes, Genomes, Genetics, 10:7, 2477-2485. doi: https://doi.org/10.1534/g3.120.401312_
 ----
 
 **General Information**
